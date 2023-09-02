@@ -1,0 +1,25 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Practicing React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadmiu/react-playground.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Fuad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuadmiu/react-playground/issues"
+  },
+  "homepage": "https://github.com/fuadmiu/react-playground#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
